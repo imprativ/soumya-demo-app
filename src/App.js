@@ -14,7 +14,7 @@ function App() {
           <TopNavBar />
         </Col>
       </Row>
-      <Row>
+      <Row style={{ marginTop: "2rem" }}>
         <Col>
           <Home />
         </Col>
