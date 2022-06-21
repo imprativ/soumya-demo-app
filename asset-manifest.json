@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.38be36b0.css",
-    "main.js": "/static/js/main.8abffbdb.js",
-    "static/js/787.f9fc8161.chunk.js": "/static/js/787.f9fc8161.chunk.js",
-    "index.html": "/index.html",
-    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
-    "main.8abffbdb.js.map": "/static/js/main.8abffbdb.js.map",
-    "787.f9fc8161.chunk.js.map": "/static/js/787.f9fc8161.chunk.js.map"
+    "main.css": "/soumya-demo-app/static/css/main.38be36b0.css",
+    "main.js": "/soumya-demo-app/static/js/main.62b427f0.js",
+    "static/js/787.f9fc8161.chunk.js": "/soumya-demo-app/static/js/787.f9fc8161.chunk.js",
+    "index.html": "/soumya-demo-app/index.html",
+    "main.38be36b0.css.map": "/soumya-demo-app/static/css/main.38be36b0.css.map",
+    "main.62b427f0.js.map": "/soumya-demo-app/static/js/main.62b427f0.js.map",
+    "787.f9fc8161.chunk.js.map": "/soumya-demo-app/static/js/787.f9fc8161.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.8abffbdb.js"
+    "static/js/main.62b427f0.js"
   ]
 }
